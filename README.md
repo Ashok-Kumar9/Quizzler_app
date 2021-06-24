@@ -24,6 +24,8 @@ We’re going to make a quiz app that tests your general knowledge. As one of th
 - How to use Dart lists.
 - The difference between var, const and final.
 
-![Screenshot_1624530474](https://user-images.githubusercontent.com/81528687/123248944-1bed7900-d506-11eb-9e27-ae12b654b015.png) ![Screenshot_1624530482](https://user-images.githubusercontent.com/81528687/123248957-20199680-d506-11eb-8770-8dd60098a826.png) ![Screenshot_1624531010](https://user-images.githubusercontent.com/81528687/123249083-3e7f9200-d506-11eb-9590-517ecd017811.png)
+![Screenshot_1624530474](https://user-images.githubusercontent.com/81528687/123249435-93230d00-d506-11eb-8614-488d7e537526.png)![Screenshot_1624530482](https://user-images.githubusercontent.com/81528687/123249445-961dfd80-d506-11eb-91ad-35fee3809818.png)![Screenshot_1624531010](https://user-images.githubusercontent.com/81528687/123249454-98805780-d506-11eb-9ddb-246ab95510bc.png)
+
+
 
 
