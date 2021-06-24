@@ -14,7 +14,7 @@ We’re going to make a quiz app that tests your general knowledge. As one of th
 
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/quizzler-demo.gif)
 
-## What you will learn
+## Learnings
 
 - Modularising your code into separate classes.
 - Dart classes and objects.
